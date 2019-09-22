@@ -1,1 +1,1 @@
-# whistle-chat-app.
+# whistle-chat-app
